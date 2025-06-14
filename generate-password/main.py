@@ -32,10 +32,25 @@ def generate_password(length: int):
   
   return ''.join(password)
 
-pass_one = generate_password(20)
-pass_two = generate_password(18)
-pass_three = generate_password(16)
+# pass_one = generate_password(20)
+# pass_two = generate_password(18)
+# pass_three = generate_password(16)
 
-print(pass_one)
-print(pass_two)
-print(pass_three)
+# print(pass_one)
+# print(pass_two)
+# print(pass_three)
+
+if __name__ == '__main__':
+  while True:
+    print('Generator Password v1.0')
+    print('Please enter the desired length for the new password')
+    length = input()
+
+    password = generate_password(int(length))
+
+    if password == None:
+      print()
+      continue
+
+    print(f"Your new password is: {password}")
+    break
