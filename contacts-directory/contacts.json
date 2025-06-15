@@ -1,37 +1,32 @@
 [
   {
-    "first_name": "María",
-    "last_name": "González",
+    "first_name": "Mar\u00eda",
+    "last_name": "Gonz\u00e1lez",
     "phone_number": "5523456789"
   },
   {
     "first_name": "Juan",
-    "last_name": "Pérez",
+    "last_name": "P\u00e9rez",
     "phone_number": "5512345678"
   },
   {
     "first_name": "Luis",
-    "last_name": "Hernández",
+    "last_name": "Hern\u00e1ndez",
     "phone_number": "5534567890"
   },
   {
     "first_name": "Ana",
-    "last_name": "Martínez",
+    "last_name": "Mart\u00ednez",
     "phone_number": "5543219876"
   },
   {
-    "first_name": "Carlos",
-    "last_name": "López",
-    "phone_number": "5556781234"
-  },
-  {
-    "first_name": "Lucía",
-    "last_name": "Ramírez",
+    "first_name": "Luc\u00eda",
+    "last_name": "Ram\u00edrez",
     "phone_number": "5598765432"
   },
   {
     "first_name": "Diego",
-    "last_name": "Fernández",
+    "last_name": "Fern\u00e1ndez",
     "phone_number": "5587654321"
   },
   {
@@ -40,12 +35,7 @@
     "phone_number": "5576543210"
   },
   {
-    "first_name": "Pedro",
-    "last_name": "Cruz",
-    "phone_number": "5565432109"
-  },
-  {
-    "first_name": "Sofía",
+    "first_name": "Sof\u00eda",
     "last_name": "Torres",
     "phone_number": "5547890123"
   },
@@ -56,12 +46,12 @@
   },
   {
     "first_name": "Valeria",
-    "last_name": "Jiménez",
+    "last_name": "Jim\u00e9nez",
     "phone_number": "5520987654"
   },
   {
     "first_name": "Jorge",
-    "last_name": "Sánchez",
+    "last_name": "S\u00e1nchez",
     "phone_number": "5511223344"
   },
   {
@@ -70,17 +60,17 @@
     "phone_number": "5599001122"
   },
   {
-    "first_name": "Andrés",
+    "first_name": "Andr\u00e9s",
     "last_name": "Ortega",
     "phone_number": "5577889900"
   },
   {
     "first_name": "Daniela",
-    "last_name": "Núñez",
+    "last_name": "N\u00fa\u00f1ez",
     "phone_number": "5588443322"
   },
   {
-    "first_name": "Héctor",
+    "first_name": "H\u00e9ctor",
     "last_name": "Aguilar",
     "phone_number": "5566778899"
   },
@@ -90,7 +80,7 @@
     "phone_number": "5554433221"
   },
   {
-    "first_name": "Tomás",
+    "first_name": "Tom\u00e1s",
     "last_name": "Vega",
     "phone_number": "5533998877"
   },
