@@ -99,19 +99,3 @@ def update_contact(first_name: str, data: Dict[str, Any]):
     contacts_formatter = deconvert_csv(contacts)
     for contact in contacts_formatter:
       writer.writerow(contact)
-
-print(list_contacts())
-print()
-time.sleep(5)
-add_contact({ "first_name": "Pedro 1", "last_name": "Diaz", "phone_number": "332039923" })
-print(list_contacts())
-print()
-time.sleep(5)
-update_contact("Pedro 1", { "first_name": "Pedro 2", "last_name": "Diaz", "phone_number": "332039923" })
-print(list_contacts())
-print()
-time.sleep(5)
-delete_contact("Pedro 2")
-print(list_contacts())
-print()
-
