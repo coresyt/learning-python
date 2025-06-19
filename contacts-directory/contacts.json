@@ -45,12 +45,7 @@
     "phone_number": "5532123456"
   },
   {
-    "first_name": "Valeria",
-    "last_name": "Jim\u00e9nez",
-    "phone_number": "5520987654"
-  },
-  {
-    "first_name": "Jorge",
+    "first_name": "Pedro Damian",
     "last_name": "S\u00e1nchez",
     "phone_number": "5511223344"
   },
@@ -88,5 +83,10 @@
     "first_name": "Camila",
     "last_name": "Castro",
     "phone_number": "5544112233"
+  },
+  {
+    "first_name": "Dieguita \u2764\ufe0f",
+    "last_name": "My love",
+    "phone_number": "232323232"
   }
 ]
